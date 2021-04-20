@@ -4,7 +4,7 @@
 Este proyecto hace parte del curso de **Sistemas Inteligente enfocados a Geociencias** de la Universidad Nacional de Colombia 
 dictado por el profesor Luis Hernan Ochoa Gutierrez.
 
-## Resumesn
+## Resumen
 A partir de datos de Flujo de Calor, grosor sedimentario y edades de la corteza oceánica en la Cuenca Panamá, se realizó un 
 tratamiento de datos utilizando el lenguaje de programación Python para luego emplear herramientas que permiten relacionar estas
 tres variables y analizar su comportamiento. Se contrastaron las observaciones de Flujo de Calor con los valores teóricos arrojados 
